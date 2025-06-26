@@ -19,6 +19,16 @@ git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 ```
 
+To view settings:
+
+```sh
+git config --global --list
+```
+
+```sh
+git config --list --show-origin
+```
+
 </details>
 
 <details>
