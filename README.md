@@ -68,7 +68,14 @@ git commit -am "{commit Message}"
 ### Git Log
 
 ```sh
-n
+git log
+git log --oneline
+```
+
+### Git Push
+
+```sh
+git push
 ```
 
 </details>
