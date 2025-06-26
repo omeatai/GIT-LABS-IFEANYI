@@ -14,7 +14,7 @@ git -v
 <details>
   <summary>Git Configuration</summary>
 
-### To setup git global settings:  
+### To setup git global settings:
 
 ```sh
 git config --global user.name "Your Name"
@@ -34,17 +34,63 @@ git config --list --show-origin
 </details>
 
 <details>
+  <summary>Basic Git Commands</summary>
+
+### Git Init
+
+```sh
+git init
+git status
+```
+
+### Git Add
+
+```sh
+git add {Filename}
+git add -A
+git add .
+```
+
+### Git Restore
+
+```sh
+git restore {Filename}
+git restore --staged {Filename}
+```
+
+### Git Commit
+
+```sh
+git commit -m "{commit Message}"
+git commit -am "{commit Message}"
+```
+
+### Git Log
+
+```sh
+n
+```
+
+</details>
+
+<details>
   <summary>C</summary>
 
 ### C
 
-```
+```sh
 n
 ```
 
 ### C
 
+```sh
+n
 ```
+
+### C
+
+```sh
 n
 ```
 
