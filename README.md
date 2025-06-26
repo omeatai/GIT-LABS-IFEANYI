@@ -5,8 +5,6 @@ GIT-LABS-IFEANYI
 <details>
   <summary>Check Git Version</summary>
 
-### Confirm Node Versions
-
 ```
 git -v
 ```
