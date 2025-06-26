@@ -12,7 +12,7 @@ git -v
 </details>
 
 <details>
-  <summary>git Configuration</summary>
+  <summary>Git Configuration</summary>
 
 ```sh
 git config --global user.name "Your Name"
