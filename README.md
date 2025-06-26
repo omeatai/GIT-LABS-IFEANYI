@@ -12,18 +12,11 @@ git -v
 </details>
 
 <details>
-  <summary>C</summary>
+  <summary>git Configuration</summary>
 
-### C
-
-```
-n
-```
-
-### C
-
-```
-n
+```sh
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
 ```
 
 </details>
