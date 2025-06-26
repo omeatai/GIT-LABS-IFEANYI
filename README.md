@@ -5,7 +5,7 @@ GIT-LABS-IFEANYI
 <details>
   <summary>Check Git Version</summary>
 
-```
+```sh
 git -v
 ```
 
