@@ -43,7 +43,7 @@ git init
 git status
 ```
 
-### Git Add
+### Git Add (Untracked to Staged)
 
 ```sh
 git add {Filename}
@@ -51,21 +51,21 @@ git add -A
 git add .
 ```
 
-### Git Restore
+### Git Restore (Staged to Untracked)
 
 ```sh
 git restore {Filename}
 git restore --staged {Filename}
 ```
 
-### Git Commit
+### Git Commit (Staged to Tracked)
 
 ```sh
 git commit -m "{commit Message}"
 git commit -am "{commit Message}"
 ```
 
-### Git Log
+### Git Log History
 
 ```sh
 git log
